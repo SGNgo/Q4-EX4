@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: maroon;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    background-color: darkgoldenrod;
+    padding: 30px;
+    margin: 50px auto;
+    max-width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+img {
+    width: 800px;
+    max-width: 100%;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
